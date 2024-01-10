@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d5878961.css",
+    "main.js": "/static/js/main.e5b95575.js",
+    "static/media/priscilla-du-preez-tAnrp8P51tY-unsplash.jpg": "/static/media/priscilla-du-preez-tAnrp8P51tY-unsplash.726460c6484de72ae419.jpg",
+    "static/media/pexels-fauxels-3184357.jpg": "/static/media/pexels-fauxels-3184357.ce3d13dd97f016d0e01e.jpg",
+    "static/media/signupImg.jpg": "/static/media/signupImg.e8f56f2ce80757a8cfe4.jpg",
+    "static/media/pexels-pixabay-269077.jpg": "/static/media/pexels-pixabay-269077.235cc751a8cd792cb8da.jpg",
+    "static/media/bootstrap-icons.woff?": "/static/media/bootstrap-icons.66b7720f4a230f1b0341.woff",
+    "static/media/contact-bg.jpg": "/static/media/contact-bg.9a84ff24a1f891700705.jpg",
+    "static/media/dashboard-1.jpg": "/static/media/dashboard-1.90fd01e7e980d49bd311.jpg",
+    "static/media/bootstrap-icons.woff2?": "/static/media/bootstrap-icons.64ed46b247405068ca60.woff2",
+    "static/media/model-1.jpg": "/static/media/model-1.d25104cde90e454f114a.jpg",
+    "static/media/model-2.jpg": "/static/media/model-2.c06793703ce34599b19b.jpg",
+    "static/media/model-3.jpg": "/static/media/model-3.5d05df88337bc70f7021.jpg",
+    "static/media/model-5.jpg": "/static/media/model-5.7a2fd8d605f3ebe22d3f.jpg",
+    "static/media/card_img.png": "/static/media/card_img.942a5891094842eda4f3.png",
+    "index.html": "/index.html",
+    "main.d5878961.css.map": "/static/css/main.d5878961.css.map",
+    "main.e5b95575.js.map": "/static/js/main.e5b95575.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5878961.css",
+    "static/js/main.e5b95575.js"
+  ]
+}
